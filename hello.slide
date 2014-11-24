@@ -1,0 +1,8 @@
+hello
+golang present demo
+
+Yi Wang
+LinkedIn
+
+* Hello
+.play hello.go /^func main/,/^}/
